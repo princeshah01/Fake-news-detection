@@ -1,0 +1,15 @@
+<!-- <div class="textsummarizer">
+			<div class="login2">
+				<h1>Text Summarizer</h1>
+				<form action="" method="">
+					<textarea name="massage" rows="10" cols="50" required="required" placeholder="textsummarizer"></textarea>
+					<br> <br>
+					<button type="submit">Summarize</button>
+					<div class="result1">
+						<p id="output"></p>
+						
+
+					</div>
+				</form>
+			</div>
+		</div>	 -->
